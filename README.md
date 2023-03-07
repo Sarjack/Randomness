@@ -1,0 +1,2 @@
+# Randomness
+My timepass course
